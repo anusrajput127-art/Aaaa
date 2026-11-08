@@ -1,0 +1,6 @@
+{
+  "name": "Toys Mart",
+  "description": "Pakistan's online toy shopping and store management app with bilingual Urdu & English support, PKR prices, Cash on Delivery, and merchant Admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
